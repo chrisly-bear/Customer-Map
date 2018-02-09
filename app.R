@@ -20,7 +20,7 @@ ui <- fluidPage(theme = shinytheme("simplex"),
                 titlePanel("Customer Map"),
                 tags$p("The map displays our customers' location. Customers can be filtered by Gender, Join Date, Date of Birth, and States. 
                        To display the data in table form, switch to the 'Table' tab. To download the filtered data, switch to the 'Download' tab."),
-                tags$p("You will find the source code to this application on ", tags$a(href="https://github.com/chrisly-bear", "GitHub", target="_blank"), "."),
+                tags$p("You will find the source code to this application on ", tags$a(href="https://github.com/chrisly-bear/customer-map", "GitHub", target="_blank"), "."),
                 tags$br(),
                 sidebarLayout(
                   sidebarPanel(tags$h4("Filters"),
