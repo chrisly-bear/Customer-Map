@@ -2,7 +2,7 @@
 
 R Shiny Application to visualize customer data on a map. Check out the running instance [here](https://chriss.shinyapps.io/customer_map/).
 
-![Screenshot](https://raw.githubusercontent.com/chrisly-bear/customer-map/master/screenshot.png)
+![Screenshot](screenshot.png)
 
 ### Tested Working Environment ###
 
